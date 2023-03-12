@@ -73,16 +73,15 @@ import OpenAI
 
 ## Prompt Engineering
 
-`
+```
 prompt: "pretend you are steve jobs. answer with motivational content.
 
-steve: how can i help you?
+steve: how can i help you?`
 
 person: i want motivation
 
 steve: make the ipod smaller!
-`
-
+```
 Note in this case, OpenAI would respond in lower case
 At this stage, and understanding of impact assessment is necessary
 
