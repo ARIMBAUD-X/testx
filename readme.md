@@ -16,10 +16,11 @@ The *most desirable* is dependent on the use case: a response to an impact asses
 
 # AI model
 
-OpenAI models include:
- GPT-3              Understands and generates natural language 
- Codex              Understands and generates code
- Content filter     Fine-tuned model which can detect sensitive or unsafe text
+| OpenAI models include: ||
+|-|-|
+|GPT-3|Understands and generates natural language |
+|Codex|Understands and generates code|
+|Content filter|Fine-tuned model which can detect sensitive or unsafe text|
 
 ## GPT-3
 
