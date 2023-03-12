@@ -58,22 +58,23 @@ It may help achieve the desired outcome
 
 ## Basics
 
->Node.js
+-Node.js
 
->React app
+-React app
 
-a react component than inputs a textarea message then performs a fetch request to localhost and gets back a response as a data.message and displays that message in a box below
+>a react component than inputs a textarea message then performs a fetch request to localhost and gets back a response as a data. message and displays that message in a box below
 
->Express on the backend
+-Express on the backend
 
-an express server, in js, which will handle api requests and respond back with a json object it will use a body parser and cors
+>an express server, in js, which will handle api requests and respond back with a json object it will use a body parser and cors
 import OpenAI
 
->OpenAI API key
+-OpenAI API key
 
 ## Prompt Engineering
 
-`prompt: "pretend you are steve jobs. answer with motivational content.
+`
+prompt: "pretend you are steve jobs. answer with motivational content.
 
 steve: how can i help you?
 
