@@ -58,19 +58,28 @@ It may help achieve the desired outcome
 ## Basics
 
 >Node.js
+
 >React app
+
 a react component than inputs a textarea message then performs a fetch request to localhost and gets back a response as a data.message and displays that message in a box below
+
 >Express on the backend
+
 an express server, in js, which will handle api requests and respond back with a json object it will use a body parser and cors
 import OpenAI
+
 >OpenAI API key
 
 ## Prompt Engineering
 
 `prompt: "pretend you are steve jobs. answer with motivational content.
+
 steve: how can i help you?
+
 person: i want motivation
-steve: make the ipod smaller!`
+
+steve: make the ipod smaller!
+`
 
 Note in this case, OpenAI would respond in lower case
 At this stage, and understanding of impact assessment is necessary
